@@ -1,0 +1,1 @@
+We will be learning how to use the if and else statement in c programme. It's going too be fun. lets dive in!
